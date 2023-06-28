@@ -11,7 +11,7 @@ This role requires Nginx to be installed
 Role Variables
 --------------
 
-lighthouse_dest: <path to install>
+lighthouse_dest: path to install
 
 Example Playbook
 ----------------
