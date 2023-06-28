@@ -1,3 +1,2 @@
 ---
-lighthouse_repo: "https://github.com/VKCOM/lighthouse"
 lighthouse_dest: "/home/vagrant/site/"
